@@ -1,0 +1,3 @@
+role_id,role_name,department,permission_count,risk_reason
+R024,Privileged Access Administrator,Information Technology,10,Role contains significantly more permissions than average
+R023,Read Only Auditor,Security,8,Role contains significantly more permissions than average

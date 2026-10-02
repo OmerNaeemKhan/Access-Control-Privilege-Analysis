@@ -1,0 +1,301 @@
+user_id,username,department,role_count
+U0017,awhite,Engineering,6
+U0093,mwhite1,Human Resources,5
+U0147,csmith,Security,5
+U0177,etaylor,Security,5
+U0210,emiller,Human Resources,5
+U0242,aanderson2,Security,5
+U0036,mperez,Customer Support,4
+U0217,nwilliams,Information Technology,4
+U0278,mmartinez1,Operations,4
+U0024,nmiller,Human Resources,3
+U0031,cdavis,Engineering,3
+U0033,jperez,Executive,3
+U0004,gwilson,Sales,2
+U0009,wjohnson,Customer Support,2
+U0020,srodriguez,Security,2
+U0021,gharris,Marketing,2
+U0025,srobinson,Information Technology,2
+U0026,elewis,Marketing,2
+U0040,jwilliams,Sales,2
+U0050,hhernandez,Finance,2
+U0056,ataylor1,Executive,2
+U0061,rlopez,Security,2
+U0069,cmartin1,Security,2
+U0073,cjones1,Sales,2
+U0078,mjones,Information Technology,2
+U0079,wanderson,Legal,2
+U0082,sanderson,Information Technology,2
+U0092,cthomas,Information Technology,2
+U0097,irodriguez,Finance,2
+U0099,mclark,Information Technology,2
+U0103,wjackson,Customer Support,2
+U0106,abrown1,Legal,2
+U0114,aanderson,Information Technology,2
+U0115,pmartinez,Customer Support,2
+U0126,jmoore1,Legal,2
+U0181,ajackson,Legal,2
+U0183,wlee,Executive,2
+U0190,hwilliams,Customer Support,2
+U0196,itaylor,Finance,2
+U0198,rwhite,Customer Support,2
+U0201,jmartin,Customer Support,2
+U0208,chernandez1,Customer Support,2
+U0214,jgarcia1,Human Resources,2
+U0223,cgarcia1,Human Resources,2
+U0224,swilliams,Legal,2
+U0229,odavis,Operations,2
+U0236,jjackson2,Information Technology,2
+U0246,smartinez2,Customer Support,2
+U0255,ksanchez,Executive,2
+U0257,msanchez1,Engineering,2
+U0264,ethompson,Human Resources,2
+U0267,mdavis2,Legal,2
+U0279,ewilson1,Legal,2
+U0281,jsanchez,Finance,2
+U0282,amoore,Marketing,2
+U0285,mwilliams,Customer Support,2
+U0287,pharris,Customer Support,2
+U0289,aharris,Finance,2
+U0294,eperez,Operations,2
+U0001,jsmith,Marketing,1
+U0002,gwilliams,Engineering,1
+U0003,staylor,Engineering,1
+U0005,mthompson,Legal,1
+U0006,obrown,Finance,1
+U0007,nrodriguez,Information Technology,1
+U0008,dmoore,Marketing,1
+U0010,sramirez,Finance,1
+U0011,egarcia,Operations,1
+U0012,wmartin,Customer Support,1
+U0013,jrobinson,Customer Support,1
+U0014,mdavis,Information Technology,1
+U0015,vlewis,Operations,1
+U0016,hjones,Marketing,1
+U0018,ethomas,Finance,1
+U0019,cmartin,Finance,1
+U0022,manderson,Information Technology,1
+U0023,ataylor,Finance,1
+U0027,dwilliams,Executive,1
+U0028,cgarcia,Marketing,1
+U0029,mthompson1,Marketing,1
+U0030,abrown,Sales,1
+U0032,mdavis1,Finance,1
+U0034,vjackson,Executive,1
+U0035,rbrown,Customer Support,1
+U0037,osanchez,Finance,1
+U0038,twilson,Human Resources,1
+U0039,asanchez,Security,1
+U0041,mlewis,Information Technology,1
+U0042,arobinson,Executive,1
+U0043,cperez,Executive,1
+U0044,hwhite,Security,1
+U0045,hthomas,Security,1
+U0046,dramirez,Human Resources,1
+U0047,mbrown,Engineering,1
+U0048,hjackson,Security,1
+U0049,edavis,Marketing,1
+U0051,rwilliams,Security,1
+U0052,wlewis,Sales,1
+U0053,gthompson,Marketing,1
+U0054,krobinson,Customer Support,1
+U0055,cjones,Marketing,1
+U0057,jjohnson,Information Technology,1
+U0058,mwhite,Executive,1
+U0059,dmoore1,Information Technology,1
+U0060,klopez,Information Technology,1
+U0062,msanchez,Human Resources,1
+U0063,isanchez,Customer Support,1
+U0064,rgonzalez,Information Technology,1
+U0065,smartinez,Sales,1
+U0066,orodriguez,Finance,1
+U0067,ghernandez,Information Technology,1
+U0068,rbrown1,Engineering,1
+U0070,ajohnson,Legal,1
+U0071,omartin,Operations,1
+U0072,emartinez,Customer Support,1
+U0074,sjackson,Marketing,1
+U0075,csanchez,Engineering,1
+U0076,dtaylor,Executive,1
+U0077,shernandez,Finance,1
+U0080,agonzalez,Sales,1
+U0081,rharris,Legal,1
+U0083,hjones1,Executive,1
+U0084,ewilson,Security,1
+U0085,arodriguez,Sales,1
+U0086,awilliams,Marketing,1
+U0087,djones,Human Resources,1
+U0088,dwilliams1,Legal,1
+U0089,mmiller,Legal,1
+U0090,vgonzalez,Executive,1
+U0091,imoore,Security,1
+U0094,jrobinson1,Legal,1
+U0095,tramirez,Executive,1
+U0096,danderson,Operations,1
+U0098,sdavis,Customer Support,1
+U0100,jjackson,Sales,1
+U0101,nmartin,Finance,1
+U0102,kjackson,Customer Support,1
+U0104,nsanchez,Finance,1
+U0105,ewilliams,Security,1
+U0107,awhite1,Security,1
+U0108,eanderson,Legal,1
+U0109,drodriguez,Executive,1
+U0110,ahernandez,Information Technology,1
+U0111,ssanchez,Marketing,1
+U0112,jmoore,Information Technology,1
+U0113,ithomas,Security,1
+U0116,swilson,Security,1
+U0117,krodriguez,Sales,1
+U0118,gharris1,Human Resources,1
+U0119,hharris,Security,1
+U0120,mmartinez,Sales,1
+U0121,gjones,Marketing,1
+U0122,tlee,Executive,1
+U0123,eanderson1,Operations,1
+U0124,ebrown,Finance,1
+U0125,mjones1,Human Resources,1
+U0127,arobinson1,Executive,1
+U0128,mmartin,Finance,1
+U0129,dgarcia,Sales,1
+U0130,athompson,Engineering,1
+U0131,kthompson,Executive,1
+U0132,hperez,Sales,1
+U0133,drobinson,Marketing,1
+U0134,kmartin,Engineering,1
+U0135,kthompson1,Legal,1
+U0136,rlewis,Legal,1
+U0137,ddavis,Customer Support,1
+U0138,jjackson1,Information Technology,1
+U0139,jgarcia,Engineering,1
+U0140,swilson1,Operations,1
+U0141,ithompson,Executive,1
+U0142,randerson,Finance,1
+U0143,mramirez,Security,1
+U0144,ijohnson,Sales,1
+U0145,mmiller1,Marketing,1
+U0146,abrown2,Information Technology,1
+U0148,janderson,Finance,1
+U0149,ktaylor,Marketing,1
+U0150,hmoore,Human Resources,1
+U0151,tramirez1,Finance,1
+U0152,erodriguez,Information Technology,1
+U0153,aramirez,Human Resources,1
+U0154,ggonzalez,Executive,1
+U0155,vgonzalez1,Sales,1
+U0156,agonzalez1,Customer Support,1
+U0157,ttaylor,Engineering,1
+U0158,rtaylor,Executive,1
+U0159,dwilliams2,Executive,1
+U0160,dramirez1,Operations,1
+U0161,aramirez1,Security,1
+U0162,kdavis,Finance,1
+U0163,randerson1,Human Resources,1
+U0164,esanchez,Information Technology,1
+U0165,ptaylor,Legal,1
+U0166,sramirez1,Legal,1
+U0167,ddavis1,Executive,1
+U0168,hlewis,Marketing,1
+U0169,hmartinez,Customer Support,1
+U0170,mgonzalez,Executive,1
+U0171,vmartinez,Marketing,1
+U0172,mrobinson,Engineering,1
+U0173,smartin,Operations,1
+U0174,tlee1,Finance,1
+U0175,ajohnson1,Engineering,1
+U0176,ewhite,Legal,1
+U0178,esanchez1,Marketing,1
+U0179,wjones,Sales,1
+U0180,jrodriguez,Security,1
+U0182,esmith,Engineering,1
+U0184,rmartinez,Executive,1
+U0185,tgonzalez,Executive,1
+U0186,dlewis,Legal,1
+U0187,irodriguez1,Information Technology,1
+U0188,pramirez,Operations,1
+U0189,sjohnson,Legal,1
+U0191,pjones,Engineering,1
+U0192,djackson,Sales,1
+U0193,nsmith,Marketing,1
+U0194,abrown3,Customer Support,1
+U0195,pjackson,Operations,1
+U0197,etaylor1,Engineering,1
+U0199,mthomas,Legal,1
+U0200,wlewis1,Finance,1
+U0202,smartinez1,Executive,1
+U0203,cwhite,Sales,1
+U0204,oclark,Executive,1
+U0205,chernandez,Customer Support,1
+U0206,ewilliams1,Finance,1
+U0207,esanchez2,Human Resources,1
+U0209,cramirez,Information Technology,1
+U0211,sramirez2,Security,1
+U0212,ssanchez1,Legal,1
+U0213,jsmith1,Human Resources,1
+U0215,jwilliams1,Security,1
+U0216,mlopez,Marketing,1
+U0218,drodriguez1,Executive,1
+U0219,jmiller,Security,1
+U0220,hthomas1,Security,1
+U0221,njohnson,Information Technology,1
+U0222,tharris,Marketing,1
+U0225,wramirez,Operations,1
+U0226,imartinez,Finance,1
+U0227,sanderson1,Operations,1
+U0228,cjackson,Legal,1
+U0230,staylor1,Sales,1
+U0231,ddavis2,Finance,1
+U0232,dharris,Customer Support,1
+U0233,aanderson1,Engineering,1
+U0234,vlee,Customer Support,1
+U0235,ejones,Executive,1
+U0237,rjohnson,Operations,1
+U0238,dmartin,Engineering,1
+U0239,randerson2,Engineering,1
+U0240,ejones1,Information Technology,1
+U0241,othompson,Finance,1
+U0243,kgonzalez,Legal,1
+U0244,owilliams,Operations,1
+U0245,nramirez,Human Resources,1
+U0247,dmartinez,Security,1
+U0248,tperez,Customer Support,1
+U0249,elopez,Information Technology,1
+U0250,oharris,Executive,1
+U0251,wmartinez,Finance,1
+U0252,sjohnson1,Customer Support,1
+U0253,mgarcia,Engineering,1
+U0254,panderson,Engineering,1
+U0256,aanderson3,Marketing,1
+U0258,emoore,Finance,1
+U0259,dharris1,Human Resources,1
+U0260,cwilliams,Sales,1
+U0261,mgonzalez1,Security,1
+U0262,edavis1,Information Technology,1
+U0263,osanchez1,Human Resources,1
+U0265,dsmith,Marketing,1
+U0266,ntaylor,Legal,1
+U0268,amartin,Security,1
+U0269,dmartinez1,Legal,1
+U0270,aperez,Customer Support,1
+U0271,gtaylor,Security,1
+U0272,rlee,Legal,1
+U0273,wlopez,Sales,1
+U0274,ghernandez1,Customer Support,1
+U0275,asanchez1,Human Resources,1
+U0276,rsanchez,Sales,1
+U0277,mclark1,Security,1
+U0280,ogarcia,Executive,1
+U0283,kmartinez,Executive,1
+U0284,ajohnson2,Operations,1
+U0286,msmith,Human Resources,1
+U0288,rmartin,Human Resources,1
+U0290,elee,Marketing,1
+U0291,ataylor2,Legal,1
+U0292,amiller,Engineering,1
+U0293,wanderson1,Human Resources,1
+U0295,kramirez,Human Resources,1
+U0296,sbrown,Sales,1
+U0297,emoore1,Engineering,1
+U0298,tmartin,Finance,1
+U0299,etaylor2,Legal,1
+U0300,wanderson2,Executive,1

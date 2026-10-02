@@ -1,0 +1,16 @@
+resource_id,resource_name,resource_type,classification
+RES001,Active Directory,Identity System,Restricted
+RES002,Production Database,Database,Restricted
+RES003,Financial Database,Database,Confidential
+RES004,Payroll System,Application,Restricted
+RES005,HR Management System,Application,Confidential
+RES006,Customer CRM,Application,Confidential
+RES007,Security Information Platform,Security Platform,Restricted
+RES008,Source Code Repository,Development Platform,Confidential
+RES009,Cloud Management Console,Cloud Platform,Restricted
+RES010,Marketing Analytics Platform,Analytics Platform,Internal
+RES011,Sales Reporting Platform,Analytics Platform,Internal
+RES012,Legal Document Repository,Document System,Confidential
+RES013,Operations Management System,Application,Internal
+RES014,Customer Support Portal,Application,Internal
+RES015,Enterprise Data Warehouse,Database,Restricted

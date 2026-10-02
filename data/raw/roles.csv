@@ -1,0 +1,25 @@
+role_id,role_name,department,role_risk
+R001,IT Support Analyst,Information Technology,Medium
+R002,System Administrator,Information Technology,High
+R003,Database Administrator,Information Technology,Critical
+R004,Security Analyst,Security,High
+R005,Security Administrator,Security,Critical
+R006,Financial Analyst,Finance,Medium
+R007,Finance Manager,Finance,High
+R008,Payroll Specialist,Finance,High
+R009,HR Specialist,Human Resources,Medium
+R010,HR Manager,Human Resources,High
+R011,Sales Representative,Sales,Low
+R012,Sales Manager,Sales,Medium
+R013,Marketing Analyst,Marketing,Low
+R014,Marketing Manager,Marketing,Medium
+R015,Operations Analyst,Operations,Medium
+R016,Operations Manager,Operations,High
+R017,Legal Counsel,Legal,High
+R018,Executive Manager,Executive,Critical
+R019,Software Engineer,Engineering,Medium
+R020,Engineering Manager,Engineering,High
+R021,Customer Support Agent,Customer Support,Low
+R022,Customer Support Manager,Customer Support,Medium
+R023,Read Only Auditor,Security,Low
+R024,Privileged Access Administrator,Information Technology,Critical

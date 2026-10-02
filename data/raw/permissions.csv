@@ -1,0 +1,37 @@
+permission_id,permission_name,access_type,sensitivity,resource_id
+P001,View User Accounts,Read,Medium,RES001
+P002,Create User Accounts,Write,High,RES001
+P003,Modify User Accounts,Admin,Critical,RES001
+P004,Delete User Accounts,Admin,Critical,RES001
+P005,View Production Database,Read,High,RES002
+P006,Modify Production Database,Write,Critical,RES002
+P007,Administer Production Database,Admin,Critical,RES002
+P008,View Financial Records,Read,High,RES003
+P009,Modify Financial Records,Write,Critical,RES003
+P010,Approve Financial Transactions,Approve,Critical,RES003
+P011,View Payroll,Read,High,RES004
+P012,Modify Payroll,Write,Critical,RES004
+P013,Approve Payroll,Approve,Critical,RES004
+P014,View Employee Records,Read,High,RES005
+P015,Modify Employee Records,Write,High,RES005
+P016,View Customer Records,Read,Medium,RES006
+P017,Modify Customer Records,Write,High,RES006
+P018,View Security Logs,Read,High,RES007
+P019,Modify Security Rules,Admin,Critical,RES007
+P020,View Source Code,Read,Medium,RES008
+P021,Modify Source Code,Write,High,RES008
+P022,Deploy Production Code,Deploy,Critical,RES008
+P023,View Cloud Resources,Read,High,RES009
+P024,Modify Cloud Resources,Admin,Critical,RES009
+P025,View Marketing Analytics,Read,Low,RES010
+P026,Modify Marketing Campaigns,Write,Medium,RES010
+P027,View Sales Reports,Read,Low,RES011
+P028,Modify Sales Reports,Write,Medium,RES011
+P029,View Legal Documents,Read,High,RES012
+P030,Modify Legal Documents,Write,High,RES012
+P031,View Operations Data,Read,Medium,RES013
+P032,Modify Operations Data,Write,High,RES013
+P033,View Support Tickets,Read,Low,RES014
+P034,Modify Support Tickets,Write,Medium,RES014
+P035,View Enterprise Data Warehouse,Read,High,RES015
+P036,Modify Enterprise Data Warehouse,Write,Critical,RES015

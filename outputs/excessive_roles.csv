@@ -1,0 +1,13 @@
+user_id,username,department,role_count,risk_reason
+U0017,awhite,Engineering,6,User has significantly more roles than average
+U0093,mwhite1,Human Resources,5,User has significantly more roles than average
+U0147,csmith,Security,5,User has significantly more roles than average
+U0177,etaylor,Security,5,User has significantly more roles than average
+U0210,emiller,Human Resources,5,User has significantly more roles than average
+U0242,aanderson2,Security,5,User has significantly more roles than average
+U0036,mperez,Customer Support,4,User has significantly more roles than average
+U0217,nwilliams,Information Technology,4,User has significantly more roles than average
+U0278,mmartinez1,Operations,4,User has significantly more roles than average
+U0024,nmiller,Human Resources,3,User has significantly more roles than average
+U0031,cdavis,Engineering,3,User has significantly more roles than average
+U0033,jperez,Executive,3,User has significantly more roles than average

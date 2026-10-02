@@ -1,0 +1,301 @@
+user_id,username,first_name,last_name,department,location,job_title,status,hire_date
+U0001,jsmith,Joseph,Smith,Marketing,New York,Marketing Analyst,Active,2025-06-04
+U0002,gwilliams,Grace,Williams,Engineering,Seattle,Software Engineer,Active,2024-02-14
+U0003,staylor,Steven,Taylor,Engineering,Austin,Software Engineer,Active,2018-09-16
+U0004,gwilson,Grace,Wilson,Sales,Los Angeles,Sales Manager,Active,2026-07-02
+U0005,mthompson,Matthew,Thompson,Legal,Washington DC,Legal Counsel,Active,2018-01-04
+U0006,obrown,Olivia,Brown,Finance,Chicago,Financial Analyst,Active,2022-09-19
+U0007,nrodriguez,Natalie,Rodriguez,Information Technology,Chicago,Privileged Access Administrator,Active,2022-04-30
+U0008,dmoore,David,Moore,Marketing,Chicago,Marketing Manager,Active,2018-09-03
+U0009,wjohnson,William,Johnson,Customer Support,Denver,Customer Support Manager,Suspended,2016-12-24
+U0010,sramirez,Steven,Ramirez,Finance,Chicago,Finance Manager,Active,2017-03-21
+U0011,egarcia,Emma,Garcia,Operations,Dallas,Operations Analyst,Active,2018-09-14
+U0012,wmartin,William,Martin,Customer Support,Denver,Customer Support Agent,Active,2022-04-26
+U0013,jrobinson,Joshua,Robinson,Customer Support,Dallas,Customer Support Agent,Active,2017-02-13
+U0014,mdavis,Michael,Davis,Information Technology,Austin,Privileged Access Administrator,Active,2024-03-16
+U0015,vlewis,Victoria,Lewis,Operations,Chicago,Operations Manager,Active,2019-05-13
+U0016,hjones,Harper,Jones,Marketing,New York,Marketing Analyst,Active,2020-07-12
+U0017,awhite,Andrew,White,Engineering,Seattle,Engineering Manager,Active,2025-01-08
+U0018,ethomas,Ella,Thomas,Finance,New York,Financial Analyst,Active,2024-10-11
+U0019,cmartin,Charlotte,Martin,Finance,Chicago,Finance Manager,Active,2021-04-28
+U0020,srodriguez,Scarlett,Rodriguez,Security,New York,Read Only Auditor,Active,2018-12-05
+U0021,gharris,Grace,Harris,Marketing,Chicago,Marketing Manager,Active,2021-09-12
+U0022,manderson,Matthew,Anderson,Information Technology,Chicago,Database Administrator,Suspended,2018-01-11
+U0023,ataylor,Anthony,Taylor,Finance,Boston,Finance Manager,Active,2020-11-17
+U0024,nmiller,Natalie,Miller,Human Resources,Atlanta,HR Specialist,Active,2017-11-03
+U0025,srobinson,Scarlett,Robinson,Information Technology,Chicago,Database Administrator,Active,2025-04-26
+U0026,elewis,Emma,Lewis,Marketing,New York,Marketing Analyst,Active,2020-03-18
+U0027,dwilliams,David,Williams,Executive,New York,Executive Manager,Active,2021-03-30
+U0028,cgarcia,Chloe,Garcia,Marketing,Chicago,Marketing Manager,Suspended,2020-07-11
+U0029,mthompson1,Mark,Thompson,Marketing,Los Angeles,Marketing Manager,Active,2020-10-08
+U0030,abrown,Amelia,Brown,Sales,Dallas,Sales Representative,Active,2019-12-23
+U0031,cdavis,Chloe,Davis,Engineering,Austin,Software Engineer,Active,2019-07-01
+U0032,mdavis1,Michael,Davis,Finance,New York,Finance Manager,Active,2023-11-27
+U0033,jperez,Joshua,Perez,Executive,New York,Executive Manager,Active,2016-09-04
+U0034,vjackson,Victoria,Jackson,Executive,New York,Executive Manager,Active,2024-06-09
+U0035,rbrown,Richard,Brown,Customer Support,Atlanta,Customer Support Manager,Active,2021-05-03
+U0036,mperez,Michael,Perez,Customer Support,Dallas,Customer Support Agent,Active,2018-05-29
+U0037,osanchez,Olivia,Sanchez,Finance,New York,Financial Analyst,Active,2021-07-17
+U0038,twilson,Thomas,Wilson,Human Resources,Atlanta,HR Manager,Active,2025-09-23
+U0039,asanchez,Amelia,Sanchez,Security,New York,Security Analyst,Active,2020-07-05
+U0040,jwilliams,James,Williams,Sales,Dallas,Sales Manager,Active,2024-03-05
+U0041,mlewis,Mia,Lewis,Information Technology,New York,Privileged Access Administrator,Active,2022-03-12
+U0042,arobinson,Andrew,Robinson,Executive,New York,Executive Manager,Active,2018-05-19
+U0043,cperez,Chloe,Perez,Executive,New York,Executive Manager,Active,2025-12-01
+U0044,hwhite,Hannah,White,Security,New York,Read Only Auditor,Active,2026-01-04
+U0045,hthomas,Hannah,Thomas,Security,Washington DC,Security Analyst,Active,2020-11-16
+U0046,dramirez,David,Ramirez,Human Resources,New York,HR Specialist,Active,2023-12-08
+U0047,mbrown,Mia,Brown,Engineering,Austin,Software Engineer,Active,2021-11-14
+U0048,hjackson,Hannah,Jackson,Security,Austin,Security Administrator,Active,2018-07-17
+U0049,edavis,Emily,Davis,Marketing,Los Angeles,Marketing Analyst,Active,2023-03-18
+U0050,hhernandez,Harper,Hernandez,Finance,New York,Finance Manager,Active,2020-04-04
+U0051,rwilliams,Richard,Williams,Security,New York,Read Only Auditor,Active,2022-08-29
+U0052,wlewis,William,Lewis,Sales,Denver,Sales Manager,Active,2017-03-22
+U0053,gthompson,Grace,Thompson,Marketing,Chicago,Marketing Analyst,Active,2020-05-09
+U0054,krobinson,Kevin,Robinson,Customer Support,Denver,Customer Support Agent,Active,2025-05-16
+U0055,cjones,Chloe,Jones,Marketing,Los Angeles,Marketing Analyst,Active,2024-04-16
+U0056,ataylor1,Andrew,Taylor,Executive,New York,Executive Manager,Active,2021-10-28
+U0057,jjohnson,Joshua,Johnson,Information Technology,Austin,System Administrator,Active,2023-08-21
+U0058,mwhite,Matthew,White,Executive,New York,Executive Manager,Active,2016-09-01
+U0059,dmoore1,Daniel,Moore,Information Technology,Austin,System Administrator,Active,2026-02-07
+U0060,klopez,Kevin,Lopez,Information Technology,Austin,System Administrator,Active,2019-02-04
+U0061,rlopez,Richard,Lopez,Security,Austin,Read Only Auditor,Active,2023-12-02
+U0062,msanchez,Matthew,Sanchez,Human Resources,Atlanta,HR Specialist,Active,2022-11-06
+U0063,isanchez,Isabella,Sanchez,Customer Support,Dallas,Customer Support Agent,Active,2017-09-28
+U0064,rgonzalez,Richard,Gonzalez,Information Technology,Austin,System Administrator,Active,2021-05-30
+U0065,smartinez,Sophia,Martinez,Sales,Dallas,Sales Representative,Active,2022-02-07
+U0066,orodriguez,Olivia,Rodriguez,Finance,Chicago,Finance Manager,Active,2022-02-02
+U0067,ghernandez,Grace,Hernandez,Information Technology,New York,Database Administrator,Active,2023-08-06
+U0068,rbrown1,Robert,Brown,Engineering,Seattle,Engineering Manager,Active,2023-01-21
+U0069,cmartin1,Charlotte,Martin,Security,New York,Security Administrator,Inactive,2024-06-10
+U0070,ajohnson,Andrew,Johnson,Legal,New York,Legal Counsel,Active,2025-10-15
+U0071,omartin,Olivia,Martin,Operations,Atlanta,Operations Analyst,Active,2023-03-16
+U0072,emartinez,Ella,Martinez,Customer Support,Atlanta,Customer Support Manager,Active,2023-04-04
+U0073,cjones1,Chloe,Jones,Sales,Los Angeles,Sales Manager,Active,2024-08-15
+U0074,sjackson,Samantha,Jackson,Marketing,Los Angeles,Marketing Analyst,Active,2024-03-20
+U0075,csanchez,Charlotte,Sanchez,Engineering,New York,Engineering Manager,Active,2021-08-12
+U0076,dtaylor,Donald,Taylor,Executive,New York,Executive Manager,Active,2019-02-16
+U0077,shernandez,Samantha,Hernandez,Finance,New York,Payroll Specialist,Active,2017-07-12
+U0078,mjones,Mark,Jones,Information Technology,New York,System Administrator,Suspended,2019-09-20
+U0079,wanderson,William,Anderson,Legal,Chicago,Legal Counsel,Active,2022-04-08
+U0080,agonzalez,Abigail,Gonzalez,Sales,Dallas,Sales Representative,Inactive,2016-12-03
+U0081,rharris,Richard,Harris,Legal,New York,Legal Counsel,Active,2018-10-08
+U0082,sanderson,Scarlett,Anderson,Information Technology,Chicago,System Administrator,Inactive,2025-03-18
+U0083,hjones1,Harper,Jones,Executive,New York,Executive Manager,Active,2018-07-04
+U0084,ewilson,Ella,Wilson,Security,Austin,Security Analyst,Active,2021-04-01
+U0085,arodriguez,Amelia,Rodriguez,Sales,Denver,Sales Manager,Active,2023-06-30
+U0086,awilliams,Amelia,Williams,Marketing,New York,Marketing Manager,Active,2020-07-07
+U0087,djones,David,Jones,Human Resources,New York,HR Manager,Active,2018-08-26
+U0088,dwilliams1,Donald,Williams,Legal,Washington DC,Legal Counsel,Active,2021-11-28
+U0089,mmiller,Michael,Miller,Legal,Washington DC,Legal Counsel,Active,2017-12-27
+U0090,vgonzalez,Victoria,Gonzalez,Executive,New York,Executive Manager,Active,2022-03-14
+U0091,imoore,Isabella,Moore,Security,Washington DC,Security Analyst,Active,2023-07-07
+U0092,cthomas,Charlotte,Thomas,Information Technology,Austin,Database Administrator,Active,2017-08-15
+U0093,mwhite1,Mia,White,Human Resources,Atlanta,HR Specialist,Suspended,2020-08-01
+U0094,jrobinson1,John,Robinson,Legal,Chicago,Legal Counsel,Active,2021-10-07
+U0095,tramirez,Thomas,Ramirez,Executive,New York,Executive Manager,Active,2022-11-26
+U0096,danderson,Donald,Anderson,Operations,Dallas,Operations Manager,Active,2017-03-30
+U0097,irodriguez,Isabella,Rodriguez,Finance,Chicago,Financial Analyst,Active,2025-12-27
+U0098,sdavis,Sophia,Davis,Customer Support,Denver,Customer Support Agent,Active,2023-10-20
+U0099,mclark,Mark,Clark,Information Technology,Chicago,System Administrator,Active,2021-04-06
+U0100,jjackson,Joseph,Jackson,Sales,Los Angeles,Sales Manager,Active,2024-09-09
+U0101,nmartin,Natalie,Martin,Finance,New York,Finance Manager,Active,2026-04-14
+U0102,kjackson,Kevin,Jackson,Customer Support,Atlanta,Customer Support Manager,Inactive,2024-05-07
+U0103,wjackson,William,Jackson,Customer Support,Denver,Customer Support Agent,Active,2023-03-11
+U0104,nsanchez,Natalie,Sanchez,Finance,Boston,Financial Analyst,Active,2021-10-08
+U0105,ewilliams,Emma,Williams,Security,Washington DC,Security Administrator,Active,2021-11-11
+U0106,abrown1,Abigail,Brown,Legal,Washington DC,Legal Counsel,Active,2021-09-09
+U0107,awhite1,Anthony,White,Security,Washington DC,Security Administrator,Active,2020-07-15
+U0108,eanderson,Evelyn,Anderson,Legal,Chicago,Legal Counsel,Active,2023-10-27
+U0109,drodriguez,David,Rodriguez,Executive,New York,Executive Manager,Active,2019-01-30
+U0110,ahernandez,Ava,Hernandez,Information Technology,Austin,Database Administrator,Active,2024-03-12
+U0111,ssanchez,Sophia,Sanchez,Marketing,Los Angeles,Marketing Manager,Inactive,2018-09-16
+U0112,jmoore,Joshua,Moore,Information Technology,Chicago,System Administrator,Active,2018-07-01
+U0113,ithomas,Isabella,Thomas,Security,New York,Read Only Auditor,Active,2018-08-04
+U0114,aanderson,Abigail,Anderson,Information Technology,New York,Database Administrator,Active,2018-10-25
+U0115,pmartinez,Paul,Martinez,Customer Support,Dallas,Customer Support Manager,Active,2020-08-14
+U0116,swilson,Sophia,Wilson,Security,Austin,Security Administrator,Active,2023-07-15
+U0117,krodriguez,Kevin,Rodriguez,Sales,New York,Sales Representative,Active,2018-03-30
+U0118,gharris1,Grace,Harris,Human Resources,New York,HR Specialist,Active,2023-06-22
+U0119,hharris,Hannah,Harris,Security,Washington DC,Security Administrator,Suspended,2017-03-27
+U0120,mmartinez,Mark,Martinez,Sales,Denver,Sales Representative,Active,2018-08-19
+U0121,gjones,Grace,Jones,Marketing,New York,Marketing Analyst,Active,2018-10-02
+U0122,tlee,Thomas,Lee,Executive,New York,Executive Manager,Active,2021-04-23
+U0123,eanderson1,Evelyn,Anderson,Operations,Chicago,Operations Analyst,Active,2016-11-28
+U0124,ebrown,Evelyn,Brown,Finance,Chicago,Finance Manager,Active,2019-07-07
+U0125,mjones1,Michael,Jones,Human Resources,Chicago,HR Manager,Active,2023-10-16
+U0126,jmoore1,Joseph,Moore,Legal,Chicago,Legal Counsel,Active,2022-04-22
+U0127,arobinson1,Amelia,Robinson,Executive,New York,Executive Manager,Active,2019-08-11
+U0128,mmartin,Michael,Martin,Finance,New York,Payroll Specialist,Active,2019-03-02
+U0129,dgarcia,David,Garcia,Sales,Dallas,Sales Representative,Active,2021-12-28
+U0130,athompson,Amelia,Thompson,Engineering,Seattle,Engineering Manager,Active,2023-05-05
+U0131,kthompson,Kenneth,Thompson,Executive,New York,Executive Manager,Inactive,2017-09-27
+U0132,hperez,Hannah,Perez,Sales,Los Angeles,Sales Representative,Active,2019-04-24
+U0133,drobinson,Daniel,Robinson,Marketing,New York,Marketing Analyst,Active,2017-09-07
+U0134,kmartin,Kevin,Martin,Engineering,Seattle,Engineering Manager,Active,2018-11-07
+U0135,kthompson1,Kevin,Thompson,Legal,Washington DC,Legal Counsel,Active,2019-11-13
+U0136,rlewis,Robert,Lewis,Legal,Chicago,Legal Counsel,Active,2026-04-14
+U0137,ddavis,David,Davis,Customer Support,Dallas,Customer Support Agent,Suspended,2019-01-13
+U0138,jjackson1,Joshua,Jackson,Information Technology,New York,Privileged Access Administrator,Active,2021-08-12
+U0139,jgarcia,Joshua,Garcia,Engineering,Seattle,Engineering Manager,Suspended,2021-04-20
+U0140,swilson1,Sophia,Wilson,Operations,Dallas,Operations Analyst,Active,2022-11-16
+U0141,ithompson,Isabella,Thompson,Executive,New York,Executive Manager,Active,2020-05-27
+U0142,randerson,Robert,Anderson,Finance,Chicago,Finance Manager,Active,2017-11-28
+U0143,mramirez,Mia,Ramirez,Security,New York,Read Only Auditor,Active,2021-05-23
+U0144,ijohnson,Isabella,Johnson,Sales,Denver,Sales Manager,Active,2018-01-19
+U0145,mmiller1,Michael,Miller,Marketing,Chicago,Marketing Analyst,Inactive,2021-08-29
+U0146,abrown2,Abigail,Brown,Information Technology,Chicago,System Administrator,Active,2023-02-02
+U0147,csmith,Chloe,Smith,Security,Austin,Security Analyst,Active,2017-02-19
+U0148,janderson,Joseph,Anderson,Finance,Boston,Financial Analyst,Active,2018-07-15
+U0149,ktaylor,Kenneth,Taylor,Marketing,Los Angeles,Marketing Manager,Suspended,2023-11-03
+U0150,hmoore,Harper,Moore,Human Resources,Atlanta,HR Specialist,Inactive,2020-11-15
+U0151,tramirez1,Thomas,Ramirez,Finance,Chicago,Finance Manager,Active,2017-09-27
+U0152,erodriguez,Ella,Rodriguez,Information Technology,Austin,Database Administrator,Active,2020-01-26
+U0153,aramirez,Abigail,Ramirez,Human Resources,Atlanta,HR Manager,Active,2020-05-20
+U0154,ggonzalez,Grace,Gonzalez,Executive,New York,Executive Manager,Suspended,2023-11-23
+U0155,vgonzalez1,Victoria,Gonzalez,Sales,Los Angeles,Sales Representative,Active,2021-04-08
+U0156,agonzalez1,Ava,Gonzalez,Customer Support,Dallas,Customer Support Agent,Active,2026-02-27
+U0157,ttaylor,Thomas,Taylor,Engineering,Seattle,Software Engineer,Active,2021-08-20
+U0158,rtaylor,Richard,Taylor,Executive,New York,Executive Manager,Active,2019-03-26
+U0159,dwilliams2,Daniel,Williams,Executive,New York,Executive Manager,Active,2022-02-11
+U0160,dramirez1,David,Ramirez,Operations,Atlanta,Operations Manager,Inactive,2019-07-18
+U0161,aramirez1,Abigail,Ramirez,Security,New York,Read Only Auditor,Active,2019-06-30
+U0162,kdavis,Kenneth,Davis,Finance,Chicago,Financial Analyst,Active,2018-09-05
+U0163,randerson1,Richard,Anderson,Human Resources,Chicago,HR Manager,Inactive,2026-01-21
+U0164,esanchez,Emily,Sanchez,Information Technology,Austin,Database Administrator,Active,2024-12-09
+U0165,ptaylor,Paul,Taylor,Legal,Chicago,Legal Counsel,Active,2025-09-08
+U0166,sramirez1,Samantha,Ramirez,Legal,Chicago,Legal Counsel,Active,2020-01-13
+U0167,ddavis1,Daniel,Davis,Executive,New York,Executive Manager,Active,2026-06-20
+U0168,hlewis,Harper,Lewis,Marketing,Chicago,Marketing Analyst,Active,2022-09-12
+U0169,hmartinez,Hannah,Martinez,Customer Support,Atlanta,Customer Support Manager,Active,2023-03-09
+U0170,mgonzalez,Mark,Gonzalez,Executive,New York,Executive Manager,Active,2022-07-19
+U0171,vmartinez,Victoria,Martinez,Marketing,New York,Marketing Manager,Active,2020-03-23
+U0172,mrobinson,Michael,Robinson,Engineering,New York,Engineering Manager,Active,2023-05-13
+U0173,smartin,Steven,Martin,Operations,Chicago,Operations Analyst,Active,2018-12-21
+U0174,tlee1,Thomas,Lee,Finance,Boston,Payroll Specialist,Active,2017-09-23
+U0175,ajohnson1,Amelia,Johnson,Engineering,Seattle,Software Engineer,Active,2023-04-07
+U0176,ewhite,Emily,White,Legal,New York,Legal Counsel,Active,2020-07-10
+U0177,etaylor,Emma,Taylor,Security,Austin,Security Analyst,Active,2017-04-29
+U0178,esanchez1,Evelyn,Sanchez,Marketing,Chicago,Marketing Manager,Active,2021-04-27
+U0179,wjones,William,Jones,Sales,Los Angeles,Sales Manager,Active,2022-02-23
+U0180,jrodriguez,James,Rodriguez,Security,New York,Security Administrator,Active,2018-03-05
+U0181,ajackson,Andrew,Jackson,Legal,Chicago,Legal Counsel,Active,2023-12-14
+U0182,esmith,Evelyn,Smith,Engineering,New York,Engineering Manager,Inactive,2024-02-03
+U0183,wlee,William,Lee,Executive,New York,Executive Manager,Active,2026-01-24
+U0184,rmartinez,Robert,Martinez,Executive,New York,Executive Manager,Active,2020-07-18
+U0185,tgonzalez,Thomas,Gonzalez,Executive,New York,Executive Manager,Active,2018-06-04
+U0186,dlewis,Daniel,Lewis,Legal,Chicago,Legal Counsel,Active,2019-09-02
+U0187,irodriguez1,Isabella,Rodriguez,Information Technology,Chicago,Database Administrator,Active,2021-08-02
+U0188,pramirez,Paul,Ramirez,Operations,Chicago,Operations Manager,Active,2019-05-05
+U0189,sjohnson,Sophia,Johnson,Legal,Washington DC,Legal Counsel,Suspended,2017-01-23
+U0190,hwilliams,Harper,Williams,Customer Support,Denver,Customer Support Agent,Active,2022-10-31
+U0191,pjones,Paul,Jones,Engineering,Austin,Software Engineer,Active,2020-05-10
+U0192,djackson,Donald,Jackson,Sales,Dallas,Sales Manager,Active,2017-09-23
+U0193,nsmith,Natalie,Smith,Marketing,New York,Marketing Analyst,Active,2017-08-14
+U0194,abrown3,Anthony,Brown,Customer Support,Denver,Customer Support Agent,Active,2017-09-18
+U0195,pjackson,Paul,Jackson,Operations,Chicago,Operations Analyst,Active,2025-02-24
+U0196,itaylor,Isabella,Taylor,Finance,Boston,Financial Analyst,Active,2017-11-06
+U0197,etaylor1,Emma,Taylor,Engineering,Austin,Engineering Manager,Active,2019-09-04
+U0198,rwhite,Robert,White,Customer Support,Dallas,Customer Support Manager,Active,2026-03-23
+U0199,mthomas,Michael,Thomas,Legal,Washington DC,Legal Counsel,Active,2021-08-07
+U0200,wlewis1,William,Lewis,Finance,Chicago,Payroll Specialist,Active,2025-02-27
+U0201,jmartin,Joshua,Martin,Customer Support,Dallas,Customer Support Manager,Active,2019-11-16
+U0202,smartinez1,Scarlett,Martinez,Executive,New York,Executive Manager,Active,2025-04-16
+U0203,cwhite,Chloe,White,Sales,Los Angeles,Sales Manager,Inactive,2021-12-07
+U0204,oclark,Olivia,Clark,Executive,New York,Executive Manager,Active,2023-01-25
+U0205,chernandez,Charlotte,Hernandez,Customer Support,Atlanta,Customer Support Manager,Inactive,2018-11-14
+U0206,ewilliams1,Evelyn,Williams,Finance,New York,Financial Analyst,Active,2018-03-23
+U0207,esanchez2,Emma,Sanchez,Human Resources,Chicago,HR Specialist,Active,2020-04-10
+U0208,chernandez1,Chloe,Hernandez,Customer Support,Denver,Customer Support Manager,Active,2019-02-10
+U0209,cramirez,Charlotte,Ramirez,Information Technology,Austin,Database Administrator,Active,2020-02-03
+U0210,emiller,Ella,Miller,Human Resources,Chicago,HR Manager,Active,2025-05-11
+U0211,sramirez2,Sophia,Ramirez,Security,Austin,Security Analyst,Active,2020-02-19
+U0212,ssanchez1,Steven,Sanchez,Legal,Chicago,Legal Counsel,Active,2019-03-13
+U0213,jsmith1,Joshua,Smith,Human Resources,Atlanta,HR Manager,Inactive,2022-08-21
+U0214,jgarcia1,James,Garcia,Human Resources,Chicago,HR Manager,Active,2018-04-06
+U0215,jwilliams1,John,Williams,Security,New York,Security Administrator,Active,2022-10-01
+U0216,mlopez,Matthew,Lopez,Marketing,Chicago,Marketing Manager,Active,2020-03-17
+U0217,nwilliams,Natalie,Williams,Information Technology,New York,System Administrator,Active,2026-01-06
+U0218,drodriguez1,David,Rodriguez,Executive,New York,Executive Manager,Active,2021-12-05
+U0219,jmiller,Joshua,Miller,Security,New York,Security Administrator,Active,2023-05-25
+U0220,hthomas1,Hannah,Thomas,Security,Washington DC,Security Administrator,Active,2022-02-21
+U0221,njohnson,Natalie,Johnson,Information Technology,New York,Database Administrator,Inactive,2017-12-19
+U0222,tharris,Thomas,Harris,Marketing,Los Angeles,Marketing Manager,Active,2020-12-29
+U0223,cgarcia1,Charlotte,Garcia,Human Resources,Atlanta,HR Specialist,Active,2017-03-24
+U0224,swilliams,Sophia,Williams,Legal,Chicago,Legal Counsel,Active,2021-06-01
+U0225,wramirez,William,Ramirez,Operations,Atlanta,Operations Manager,Active,2018-08-13
+U0226,imartinez,Isabella,Martinez,Finance,Chicago,Financial Analyst,Suspended,2024-08-24
+U0227,sanderson1,Samantha,Anderson,Operations,Chicago,Operations Manager,Active,2023-11-05
+U0228,cjackson,Charlotte,Jackson,Legal,Chicago,Legal Counsel,Active,2023-02-04
+U0229,odavis,Olivia,Davis,Operations,Chicago,Operations Analyst,Active,2025-04-17
+U0230,staylor1,Scarlett,Taylor,Sales,Denver,Sales Manager,Active,2017-05-22
+U0231,ddavis2,Daniel,Davis,Finance,New York,Finance Manager,Active,2019-10-26
+U0232,dharris,Daniel,Harris,Customer Support,Denver,Customer Support Agent,Inactive,2019-07-13
+U0233,aanderson1,Abigail,Anderson,Engineering,New York,Engineering Manager,Active,2016-09-06
+U0234,vlee,Victoria,Lee,Customer Support,Dallas,Customer Support Manager,Active,2019-07-16
+U0235,ejones,Emily,Jones,Executive,New York,Executive Manager,Active,2023-03-06
+U0236,jjackson2,Joshua,Jackson,Information Technology,Austin,IT Support Analyst,Active,2021-07-03
+U0237,rjohnson,Robert,Johnson,Operations,Dallas,Operations Analyst,Active,2016-12-24
+U0238,dmartin,David,Martin,Engineering,New York,Engineering Manager,Active,2020-05-10
+U0239,randerson2,Robert,Anderson,Engineering,New York,Software Engineer,Active,2021-03-28
+U0240,ejones1,Ella,Jones,Information Technology,Austin,IT Support Analyst,Active,2017-03-08
+U0241,othompson,Olivia,Thompson,Finance,Boston,Payroll Specialist,Active,2023-10-18
+U0242,aanderson2,Amelia,Anderson,Security,Washington DC,Read Only Auditor,Active,2022-05-23
+U0243,kgonzalez,Kenneth,Gonzalez,Legal,Washington DC,Legal Counsel,Active,2019-04-25
+U0244,owilliams,Olivia,Williams,Operations,Chicago,Operations Manager,Active,2018-06-16
+U0245,nramirez,Natalie,Ramirez,Human Resources,Atlanta,HR Specialist,Active,2024-12-26
+U0246,smartinez2,Sophia,Martinez,Customer Support,Dallas,Customer Support Manager,Active,2018-08-16
+U0247,dmartinez,David,Martinez,Security,Austin,Read Only Auditor,Active,2017-06-15
+U0248,tperez,Thomas,Perez,Customer Support,Dallas,Customer Support Agent,Active,2021-10-28
+U0249,elopez,Ella,Lopez,Information Technology,Austin,Database Administrator,Active,2024-03-03
+U0250,oharris,Olivia,Harris,Executive,New York,Executive Manager,Suspended,2024-11-01
+U0251,wmartinez,William,Martinez,Finance,Boston,Payroll Specialist,Active,2016-08-30
+U0252,sjohnson1,Scarlett,Johnson,Customer Support,Atlanta,Customer Support Agent,Active,2024-11-04
+U0253,mgarcia,Matthew,Garcia,Engineering,Austin,Engineering Manager,Active,2022-06-27
+U0254,panderson,Paul,Anderson,Engineering,Seattle,Engineering Manager,Active,2023-11-22
+U0255,ksanchez,Kevin,Sanchez,Executive,New York,Executive Manager,Active,2020-03-05
+U0256,aanderson3,Amelia,Anderson,Marketing,Los Angeles,Marketing Manager,Suspended,2017-05-31
+U0257,msanchez1,Mark,Sanchez,Engineering,Austin,Engineering Manager,Active,2021-03-08
+U0258,emoore,Emma,Moore,Finance,Boston,Payroll Specialist,Active,2023-05-18
+U0259,dharris1,David,Harris,Human Resources,Atlanta,HR Manager,Inactive,2024-12-02
+U0260,cwilliams,Charlotte,Williams,Sales,Los Angeles,Sales Manager,Inactive,2021-12-02
+U0261,mgonzalez1,Michael,Gonzalez,Security,Austin,Security Analyst,Active,2025-08-28
+U0262,edavis1,Emma,Davis,Information Technology,Austin,IT Support Analyst,Active,2019-04-14
+U0263,osanchez1,Olivia,Sanchez,Human Resources,New York,HR Specialist,Active,2017-04-08
+U0264,ethompson,Evelyn,Thompson,Human Resources,Chicago,HR Manager,Active,2026-07-07
+U0265,dsmith,David,Smith,Marketing,New York,Marketing Analyst,Active,2018-06-02
+U0266,ntaylor,Natalie,Taylor,Legal,New York,Legal Counsel,Active,2025-03-16
+U0267,mdavis2,Michael,Davis,Legal,Chicago,Legal Counsel,Active,2017-03-10
+U0268,amartin,Abigail,Martin,Security,New York,Read Only Auditor,Active,2023-11-11
+U0269,dmartinez1,Daniel,Martinez,Legal,New York,Legal Counsel,Active,2021-11-25
+U0270,aperez,Anthony,Perez,Customer Support,Denver,Customer Support Manager,Active,2020-09-03
+U0271,gtaylor,Grace,Taylor,Security,Washington DC,Security Analyst,Active,2021-04-20
+U0272,rlee,Robert,Lee,Legal,Washington DC,Legal Counsel,Active,2022-07-27
+U0273,wlopez,William,Lopez,Sales,New York,Sales Manager,Active,2022-08-15
+U0274,ghernandez1,Grace,Hernandez,Customer Support,Denver,Customer Support Manager,Suspended,2021-03-16
+U0275,asanchez1,Anthony,Sanchez,Human Resources,New York,HR Manager,Active,2024-04-24
+U0276,rsanchez,Robert,Sanchez,Sales,New York,Sales Manager,Inactive,2020-10-16
+U0277,mclark1,Mia,Clark,Security,Austin,Security Administrator,Active,2019-04-27
+U0278,mmartinez1,Mark,Martinez,Operations,Chicago,Operations Manager,Active,2017-08-10
+U0279,ewilson1,Emma,Wilson,Legal,Chicago,Legal Counsel,Inactive,2022-03-28
+U0280,ogarcia,Olivia,Garcia,Executive,New York,Executive Manager,Inactive,2020-10-01
+U0281,jsanchez,Joshua,Sanchez,Finance,Boston,Finance Manager,Active,2019-10-26
+U0282,amoore,Anthony,Moore,Marketing,Los Angeles,Marketing Analyst,Active,2019-02-28
+U0283,kmartinez,Kenneth,Martinez,Executive,New York,Executive Manager,Active,2022-08-19
+U0284,ajohnson2,Amelia,Johnson,Operations,Atlanta,Operations Manager,Active,2017-09-12
+U0285,mwilliams,Michael,Williams,Customer Support,Dallas,Customer Support Manager,Active,2017-08-03
+U0286,msmith,Matthew,Smith,Human Resources,Chicago,HR Manager,Active,2025-10-26
+U0287,pharris,Paul,Harris,Customer Support,Atlanta,Customer Support Manager,Active,2020-03-18
+U0288,rmartin,Robert,Martin,Human Resources,Chicago,HR Manager,Inactive,2022-05-27
+U0289,aharris,Amelia,Harris,Finance,Boston,Financial Analyst,Active,2022-02-09
+U0290,elee,Emily,Lee,Marketing,New York,Marketing Analyst,Active,2024-06-26
+U0291,ataylor2,Abigail,Taylor,Legal,Chicago,Legal Counsel,Active,2023-08-27
+U0292,amiller,Amelia,Miller,Engineering,Seattle,Engineering Manager,Active,2025-01-19
+U0293,wanderson1,William,Anderson,Human Resources,Chicago,HR Manager,Suspended,2017-06-26
+U0294,eperez,Emily,Perez,Operations,Atlanta,Operations Analyst,Active,2023-04-26
+U0295,kramirez,Kevin,Ramirez,Human Resources,Chicago,HR Specialist,Active,2020-11-13
+U0296,sbrown,Steven,Brown,Sales,Dallas,Sales Representative,Active,2026-04-12
+U0297,emoore1,Emma,Moore,Engineering,Seattle,Engineering Manager,Active,2020-05-21
+U0298,tmartin,Thomas,Martin,Finance,New York,Finance Manager,Active,2018-07-14
+U0299,etaylor2,Evelyn,Taylor,Legal,Washington DC,Legal Counsel,Active,2023-01-07
+U0300,wanderson2,William,Anderson,Executive,New York,Executive Manager,Active,2017-10-28

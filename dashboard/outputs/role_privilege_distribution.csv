@@ -1,0 +1,25 @@
+role_id,role_name,department,permission_count
+R024,Privileged Access Administrator,Information Technology,10
+R023,Read Only Auditor,Security,8
+R005,Security Administrator,Security,7
+R002,System Administrator,Information Technology,6
+R018,Executive Manager,Executive,6
+R003,Database Administrator,Information Technology,5
+R007,Finance Manager,Finance,5
+R020,Engineering Manager,Engineering,5
+R004,Security Analyst,Security,4
+R012,Sales Manager,Sales,4
+R016,Operations Manager,Operations,4
+R022,Customer Support Manager,Customer Support,4
+R001,IT Support Analyst,Information Technology,3
+R006,Financial Analyst,Finance,3
+R010,HR Manager,Human Resources,3
+R014,Marketing Manager,Marketing,3
+R015,Operations Analyst,Operations,3
+R017,Legal Counsel,Legal,3
+R019,Software Engineer,Engineering,3
+R021,Customer Support Agent,Customer Support,3
+R008,Payroll Specialist,Finance,2
+R009,HR Specialist,Human Resources,2
+R011,Sales Representative,Sales,2
+R013,Marketing Analyst,Marketing,2

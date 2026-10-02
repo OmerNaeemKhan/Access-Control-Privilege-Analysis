@@ -1,0 +1,28 @@
+user_id,username,department,permission_count,risk_reason
+U0278,mmartinez1,Operations,20,User has significantly more permissions than average
+U0017,awhite,Engineering,19,User has significantly more permissions than average
+U0093,mwhite1,Human Resources,19,User has significantly more permissions than average
+U0242,aanderson2,Security,18,User has significantly more permissions than average
+U0024,nmiller,Human Resources,17,User has significantly more permissions than average
+U0177,etaylor,Security,17,User has significantly more permissions than average
+U0210,emiller,Human Resources,17,User has significantly more permissions than average
+U0036,mperez,Customer Support,16,User has significantly more permissions than average
+U0217,nwilliams,Information Technology,15,User has significantly more permissions than average
+U0009,wjohnson,Customer Support,14,User has significantly more permissions than average
+U0033,jperez,Executive,14,User has significantly more permissions than average
+U0147,csmith,Security,14,User has significantly more permissions than average
+U0031,cdavis,Engineering,12,User has significantly more permissions than average
+U0092,cthomas,Information Technology,12,User has significantly more permissions than average
+U0198,rwhite,Customer Support,11,User has significantly more permissions than average
+U0246,smartinez2,Customer Support,11,User has significantly more permissions than average
+U0007,nrodriguez,Information Technology,10,User has significantly more permissions than average
+U0014,mdavis,Information Technology,10,User has significantly more permissions than average
+U0020,srodriguez,Security,10,User has significantly more permissions than average
+U0040,jwilliams,Sales,10,User has significantly more permissions than average
+U0041,mlewis,Information Technology,10,User has significantly more permissions than average
+U0061,rlopez,Security,10,User has significantly more permissions than average
+U0069,cmartin1,Security,10,User has significantly more permissions than average
+U0082,sanderson,Information Technology,10,User has significantly more permissions than average
+U0099,mclark,Information Technology,10,User has significantly more permissions than average
+U0138,jjackson1,Information Technology,10,User has significantly more permissions than average
+U0267,mdavis2,Legal,10,User has significantly more permissions than average
